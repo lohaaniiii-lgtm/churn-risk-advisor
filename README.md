@@ -18,7 +18,7 @@ A Streamlit app that ranks telecom customers by churn risk, shows what-if change
 
 **Limitations:** one US dataset from one period; no Pakistan data; associations, not causes; performance may drift as plans change.
 
-**Fairness check (Week 15):** compare recall across gender and seniors.
+**Fairness check (Week 15):** compare recall across gender and seniors. 
 
 **Owner and version:** Muhammad Luqman Khan, v1.0, October 10, 2026.
 
