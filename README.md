@@ -1,4 +1,4 @@
-# Churn Risk Advisor
+# Churn Risk Advisor 
 
 [![Live app](https://img.shields.io/badge/Live%20app-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://churn-risk-advisor-luqmankhanlohani.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.12%2B-3776AB?logo=python&logoColor=white)
